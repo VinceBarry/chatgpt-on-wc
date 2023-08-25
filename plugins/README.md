@@ -264,7 +264,7 @@ class Hello(Plugin):
 
 ## 插件设计建议
 
-- 尽情将你想要的个性化功能设计为插件。
+- 尽情将你想要的个性化功能设计为Plugin。
 - 一个插件目录建议只注册一个插件类。建议使用单独的仓库维护插件，便于更新。
 
   在测试调试好后提交`PR`，把自己的仓库加入到[仓库源](https://github.com/zhayujie/chatgpt-on-wechat/blob/master/plugins/source.json)中。
